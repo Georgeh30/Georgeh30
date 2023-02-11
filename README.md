@@ -5,9 +5,17 @@
 
 <p align="center"> <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="georgeh30" width="200" height="200"/> </p>
 
-- 🔭 Actualmente trabajando en [TO DO Frontend](https://github.com/Georgeh30/TO-DO-WITH-REACT-VITEJS)
+<h3 align="left">Acerca de mi</h3>
+<p align="left">
+  Soy un desarrollador web apasionado y altamente capacitado con más de 2 años de experiencia en el campo laboral y en campo en general con más de 6 años de experiencia, con un historial comprobado de éxitos en la creación de soluciones innovadoras y eficientes para los usuarios.
+He desarrollado aplicaciones web y móviles con una amplia gama de tecnologías, incluyendo HTML, CSS, JavaScript, PHP, MySQL, Django, Python, Java y React, y he trabajado en proyectos individuales y en equipo con un enfoque en la calidad y el cumplimiento de plazos.
+Como desarrollador web, cuento con las habilidades técnicas, lo que me permite entender las necesidades de los usuarios y ofrecer soluciones efectivas que superan sus expectativas
+Sigo aprendiendo y adaptándome a las nuevas tecnologías para ofrecer soluciones innovadoras y eficientes a los usuarios. Me esfuerzo por ser un desarrollador web completo, comprometido y proactivo que busca siempre superar sus metas y lograr éxitos duraderos.  
+</p>
 
-- 🔭 Actualmente trabajando en [TO DO Backend](https://github.com/Georgeh30/API-REST-TODO)
+<br>
+
+- 🔭 Actualmente trabajando en [TO DO Frontend](https://github.com/Georgeh30/TO-DO-WITH-REACT-VITEJS) + [TO DO Backend](https://github.com/Georgeh30/API-REST-TODO) 
 
 - 🌱 Actualmente estoy aprendiendo **Django Rest Framework, Autenticación y permisos por cookies, peticiones http por axios, React, python.**
 
@@ -21,7 +29,12 @@
 
 - 📄 Te comparto mi CV [https://resume.io/r/JXyu2Kbic](https://resume.io/r/JXyu2Kbic)
 
-- ⚡ Hechos divertidos **Creo que soy divertido**
+<br>
+
+<h3 align="left">Pasatiempos</h3>
+<p align="left">
+  Mis aficiones incluyen el deporte y la tecnología. Me encanta jugar al fútbol y correr en competiciones de atletismo, lo que me ayuda a mantenerme en forma y activo. Además, soy un amante de las películas, disfruto de la cultura cinematográfica y paso mucho tiempo explorando diferentes géneros.  También me interesa mucho el desarrollo web y estoy constantemente aprendiendo sobre nuevas tecnologías como Python, Django, React JS, y la creación de API's. Me gusta desarrollar aplicaciones web personales y experimentar con diferentes conexiones a estas API's, lo que me permite ampliar mis habilidades y conocimientos en el area del desarrollo web.
+</p>
 
 <br>
 
@@ -134,6 +147,7 @@
       width="40"
       height="40"
     />
+</p>
 <p align="center">
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
@@ -248,6 +262,7 @@
 
 <br>
 
+<h3 align="center">Estadísticas</h3>
 <p align="center">
   <img
     align="center"
@@ -278,6 +293,31 @@
       src="https://github-profile-trophy.vercel.app/?username=Georgeh30&theme=tokyonight&show_icons=true&locale=es&layout=compact"
       alt="georgeh30"
     />
+  </a>
+</p>
+
+[![George's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Georgeh30&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+<h3 align="center">Repositories</h3>
+<p align="center">
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=TO-DO-WITH-REACT-VITEJS&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
+  </a>
+<!--   <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=API-REST-TODO-VITEJS&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
+  </a> -->
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=Codigos-JavaScript&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
+  </a>
+</p>
+<p align="center">
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=rest-framework-tutorial&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
+  </a>
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=Curso-Django&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
   </a>
 </p>
 
@@ -325,14 +365,4 @@
       height="30"
       width="40"
   /></a>
-</p>
-
-<h3 align="center">Repositories</h3>
-<p align="center">
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=TO-DO-WITH-REACT-VITEJS&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
-  </a>
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=API-REST-TODO-VITEJS&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
-  </a>
 </p>
