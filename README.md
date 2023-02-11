@@ -357,7 +357,7 @@ Sigo aprendiendo y adaptándome a las nuevas tecnologías para ofrecer solucione
       height="30"
       width="40"
   /></a>
-  <a href="https://discord.gg/johncrotf2" target="blank"
+  <a href="https://discord.gg/johncrotf30#7222" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
