@@ -9,9 +9,9 @@
 
 - 🔭 Actualmente trabajando en [TO DO Frontend](https://github.com/Georgeh30/TO-DO-WITH-REACT-VITEJS)
 
-- 🌱 Actualmente estoy aprendiendo **Django Rest Framework, Autenticación y permisos por cookies, peticiones http por axios, React, python.**
-
 - 🔭 Actualmente trabajando en [TO DO Backend](https://github.com/Georgeh30/API-REST-TODO)
+
+- 🌱 Actualmente estoy aprendiendo **Django Rest Framework, Autenticación y permisos por cookies, peticiones http por axios, React, python.**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Georgeh30](https://github.com/Georgeh30)
 
