@@ -38,7 +38,7 @@ Sigo aprendiendo y adaptándome a las nuevas tecnologías para ofrecer solucione
 
 <br>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Lenguajes y Herramientas</h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
@@ -300,7 +300,7 @@ Sigo aprendiendo y adaptándome a las nuevas tecnologías para ofrecer solucione
 
 <br>
 
-<h3 align="center">Repositories</h3>
+<h3 align="center">Repositorios mas recientes</h3>
 <p align="center">
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=TO-DO-WITH-REACT-VITEJS&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
@@ -323,7 +323,7 @@ Sigo aprendiendo y adaptándome a las nuevas tecnologías para ofrecer solucione
 
 <br>
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="right">Contacto</h3>
 <p align="right">
   <a href="https://twitter.com/jorgeal90752656" target="blank"
     ><img
