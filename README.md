@@ -251,7 +251,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=georgeh30&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=georgeh30&theme=tokyonight&show_icons=true&locale=es&layout=compact"
     alt="georgeh30"
   />
 </p>
@@ -259,7 +259,7 @@
 <p align="center">
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=georgeh30&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=georgeh30&theme=tokyonight&show_icons=true&locale=es"
     alt="georgeh30"
   />
 </p>
@@ -267,7 +267,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=georgeh30&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=georgeh30&theme=tokyonight&locale=es"
     alt="georgeh30"
   />
 </p>
@@ -275,7 +275,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=georgeh30"
+      src="https://github-profile-trophy.vercel.app/?username=Georgeh30&theme=tokyonight&show_icons=true&locale=es&layout=compact"
       alt="georgeh30"
     />
   </a>
@@ -325,4 +325,14 @@
       height="30"
       width="40"
   /></a>
+</p>
+
+<h3 align="center">Repositories</h3>
+<p align="center">
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=TO-DO-WITH-REACT-VITEJS&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
+  </a>
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=API-REST-TODO-VITEJS&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
+  </a>
 </p>
