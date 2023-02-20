@@ -305,9 +305,9 @@ Sigo aprendiendo y adaptándome a las nuevas tecnologías para ofrecer solucione
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=TO-DO-WITH-REACT-VITEJS&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
   </a>
-<!--   <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=API-REST-TODO-VITEJS&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
-  </a> -->
+  </a>
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=Codigos-JavaScript&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
   </a>
