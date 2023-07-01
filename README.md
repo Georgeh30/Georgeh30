@@ -23,7 +23,7 @@ Sigo aprendiendo y adaptándome a las nuevas tecnologías para ofrecer solucione
 
 - 💬 Preguntame sobre **React, DRF, Java, Python, Django, Javascript, Php, patrón en el diseño de software MVC y MTV, Html y Css**
 
-- 📫 Contactame en **johncrotf2@gmail.com, 5579125141**
+- 📫 Contactame en **johncrotf2@gmail.com
 
 - 📄 Conoce mis experiencias [https://devfolio.co/@Jorge](https://devfolio.co/@Jorge)
 
