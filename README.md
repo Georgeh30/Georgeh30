@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=georgehh30&label=Profile%20views&color=0e75b6&style=flat" alt="georgehh30"/> </p>
+
 <p align="center">
   <img src="https://github.com/Georgeh30/profile-images/blob/main/img/banner/banner.png" alt="Welcome Banner" width="600" height="300" />
 </p>
