@@ -184,7 +184,7 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=blueberry&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Georgeh30&theme=blueberry&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -241,5 +241,5 @@
 </p>
 
 <p align="center">
-  <strong>⭐️ From <a href="https://github.com/yourusername">Jorge Alvarado</a></strong>
+  <strong>⭐️ From <a href="https://github.com/Georgeh30">Jorge Alvarado</a></strong>
 </p>
