@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=georgehh30&label=Profile%20views&color=0e75b6&style=flat" alt="georgehh30"/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=georgeh30&label=Profile%20views&color=0e75b6&style=flat" alt="georgeh30"/> </p>
 
 <p align="center">
   <img src="https://github.com/Georgeh30/profile-images/blob/main/img/banner/banner.png" alt="Welcome Banner" width="600" height="300" />
@@ -99,14 +99,14 @@
 <h2 align="center">📊 GitHub Stats & Most Used Languages</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Georgeh30&show_icons=true&theme=blueberry&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georgeh30&layout=compact&theme=blueberry" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgeh30&show_icons=true&theme=blueberry&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeh30&layout=compact&theme=blueberry" alt="Top Languages" />
 </p>
 
 <h2 align="center">🚀 Contribution Stats</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Georgeh30&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true" alt="Contribution Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgeh30&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true" alt="Contribution Stats" />
 </p>
 
 ---
@@ -184,7 +184,7 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Georgeh30&theme=blueberry&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=georgeh30&theme=blueberry&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
